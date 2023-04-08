@@ -1,0 +1,11 @@
+EdgeGPT-0.1.22.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+EdgeGPT-0.1.22.1.dist-info/LICENSE,sha256=awOCsWJ58m_2kBQwBUGWejVqZm6wuRtCL2hi9rfa0X4,1211
+EdgeGPT-0.1.22.1.dist-info/METADATA,sha256=XTnUDzbKHi8iuOASkFwOqI4W3TGFl8Czc3XPsvlv7XE,7901
+EdgeGPT-0.1.22.1.dist-info/RECORD,,
+EdgeGPT-0.1.22.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+EdgeGPT-0.1.22.1.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+EdgeGPT-0.1.22.1.dist-info/top_level.txt,sha256=v4g4Ega7tqYHvTYxbpSUcFomRkKXLACVnCMtwevamh4,17
+EdgeGPT.py,sha256=niKFGLzbJXTJm5Evv5xNTUlggOPsUIeiUBnzCthdntc,16593
+ImageGen.py,sha256=pfhw9voDrSXVWP-CAFyfag0MFFIuW_mvBQTMoLHhBmM,260
+__pycache__/EdgeGPT.cpython-310.pyc,,
+__pycache__/ImageGen.cpython-310.pyc,,
